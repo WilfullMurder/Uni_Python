@@ -16,18 +16,18 @@ Print the following patterns using while loop:
 
 a
 
-*
-**
-***
-****
+ *
+ **
+ ***
+ ****
 
 b
 
-  *
- ***
-*****
- ***
-  *
+   *
+  ***
+ *****
+  ***
+   *
 
 
 Figure this is supposed to teach us about loops 🤷‍♂️

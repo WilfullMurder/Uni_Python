@@ -13,21 +13,7 @@ Write a Python function that finds the sum of the sum of even numbers.
 Write a Python program to reverses the digits of a given integer.
 
 Print the following patterns using while loop:
-
-a
-
- /
- //
- ///
- ////
-
-b
-
-   /
-  ///
- /////
-  ///
-   /
-
+right angled triangle
+star
 
 Figure this is supposed to teach us about loops 🤷‍♂️
